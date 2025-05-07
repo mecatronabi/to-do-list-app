@@ -46,9 +46,11 @@ simple-express-to-do-list-app/
   node server.js
 
 4. Abre en tu navegador:
+  ```bash
   http://localhost:3000
 
-🧑‍💻 Autor
+
+## 🧑‍💻 Autor
   mecatronabi
 
 
