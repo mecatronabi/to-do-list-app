@@ -44,9 +44,9 @@ simple-express-to-do-list-app/
   ```bash
   node server.js
 
-4. Abre en tu navegador:
- http://localhost:3000
-
+ 4. Abre en tu navegador:
+  ```bash
+  http://localhost:3000
 
 
 
