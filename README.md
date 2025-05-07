@@ -1,3 +1,59 @@
+# 📝 To-Do List App
+
+Una aplicación web sencilla para gestionar tareas. Permite agregar, visualizar, marcar como completadas y eliminar tareas, todo desde una interfaz amigable.
+
+## 🚀 Tecnologías utilizadas
+
+- **Frontend:** HTML, CSS y JavaScript
+- **Backend:** Node.js con Express.js
+- **Almacenamiento:** En memoria (sin base de datos)
+- **Servidor:** Puerto `3000`
+
+## ✨ Funcionalidades
+
+- 📋 Ver lista de tareas
+- ➕ Agregar nuevas tareas
+- ✅ Marcar tareas como completadas
+- 🗑️ Eliminar tareas
+
+## 📁 Estructura del proyecto
+
+simple-express-to-do-list-app/
+│
+├── public/ # Archivos del frontend
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+├── server.js # Servidor Express
+├── package.json # Dependencias del proyecto
+└── README.md # Este archivo
+
+
+## 🔧 Instalación y uso local
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/mecatronabi/to-do-list-app.git
+   cd to-do-list-app
+   
+2. Instala dependencias:
+   ```bash
+  npm install
+  
+3. Inicia el servidor:
+  ```bash
+  node server.js
+
+4. Abre en tu navegador:
+  http://localhost:3000
+
+🧑‍💻 Autor
+  mecatronabi
+
+
+
+
 # Simple To Do List App with Express.js
 
 This project is a simple To Do List application built with Express.js for the backend and plain JavaScript, HTML, and CSS for the frontend. It allows users to create, view, update, and delete tasks. The application serves as a basic example of how to integrate a frontend with a backend using an API.
