@@ -39,7 +39,7 @@ simple-express-to-do-list-app/
    
 2. Instala dependencias:
    ```bash
-  npm install
+   npm install
   
 3. Inicia el servidor:
   ```bash
