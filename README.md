@@ -41,13 +41,12 @@ simple-express-to-do-list-app/
    npm install
 
 3. Inicia el servidor:
-  ```bash
-  node server.js
+    ```bash
+    node server.js
 
  4. Abre en tu navegador:
-  ```bash
-  http://localhost:3000
-
+      ```bash
+      http://localhost:3000
 
 
 
