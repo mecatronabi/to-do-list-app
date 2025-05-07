@@ -31,27 +31,22 @@ simple-express-to-do-list-app/
 
 
 ## 🔧 Instalación y uso local
-
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/mecatronabi/to-do-list-app.git
    cd to-do-list-app
-   
+
 2. Instala dependencias:
    ```bash
    npm install
-  
+
 3. Inicia el servidor:
   ```bash
   node server.js
 
 4. Abre en tu navegador:
-  ```bash
-  http://localhost:3000
+ http://localhost:3000
 
-
-## 🧑‍💻 Autor
-  mecatronabi
 
 
 
